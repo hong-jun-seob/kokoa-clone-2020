@@ -34,15 +34,6 @@
 }
 
 .nav__ellipsis {
-  background-color: tomato;
-  width: 10px;
-  height: 10px;
-  border-radius: 5px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  font-weight: 600;
   position: absolute;
   left: 25px;
   bottom: 30px;
